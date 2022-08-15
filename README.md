@@ -6,7 +6,7 @@
 
 ## About
 
-A movies library app, where we could train code refactoring, from one file to multiple files, thus, training how to pass props and state throughout the application.
+A movies library app built on ReactJS, where we could train code refactoring, from one file to multiple files, thus, training how to pass props and state throughout the application.
 
 ## Installation
 1. Install it by running `yarn` in the project's root directory
